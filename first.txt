@@ -1,3 +1,4 @@
-Git³Ø½¬
+ï»¿Git
 git add
 git commit
+git rm
